@@ -20,10 +20,6 @@ A fun and simple game built with React to test and improve your aiming skills. C
 
 1. **Clone the Repo**
 
-```sh
-git clone https://github.com/yourusername/react-bounce-game.git
-```
-
 2. **Install and Run**
 
 ```sh
